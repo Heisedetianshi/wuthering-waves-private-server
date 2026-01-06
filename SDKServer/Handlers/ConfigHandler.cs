@@ -27,13 +27,13 @@ internal static class ConfigHandler
             TDCfg = new TDConfig
             {
                 Url = "https://ali-sh-datareceiver.kurogame.xyz",
-                AppID = "KEY", // replace to key on readme.md
+                AppID = "364c899beea94b92b87ae30869b492d6", // replace to key on readme.md
             },
             LogReport = new LogReportConfig
             {
-                Ak = "KEY", // replace to key on readme.md
-                Sk = "KEY", // replace to key on readme.md
-                Name = "KEY", // replace to key on readme.md
+                Ak = "AKIDseIrMkz66ymcSBrjpocFt9IO0lT1SiIk", // replace to key on readme.md
+                Sk = "MXeeVBfs0ywnleS83xiGczCPVROCnFds", // replace to key on readme.md
+                Name = "aki-upload-log-1319073642", // replace to key on readme.md
                 Region = "ap-shanghai"
             },
             NoticUrl = "https://prod-alicdn-gmserver-static.kurogame.com",
